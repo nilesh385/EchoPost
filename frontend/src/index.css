@@ -1,0 +1,8 @@
+::-webkit-scrollbar {
+  width: 7%;
+  background: #000;
+}
+
+::-webkit-slider-thumb {
+  background: #adadad;
+}
